@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Molina Soares</h1>
 <h3 align="center">Student at PUC-Rio, currently graduating in Computer Engineering</h3>
 
-- 🔭 I’m currently working on [T2_Basic_Software](https://github.com/LukaPedra/T2_software-basico)
+- 🔭 I’m currently working on [Private Repository]
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
