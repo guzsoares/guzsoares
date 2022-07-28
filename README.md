@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Molina Soares</h1>
 <h3 align="center">Student at PUC-Rio, currently graduating in Computer Engineering</h3>
 
-- 🔭 I’m currently working on [Private Repository]
+- 🔭 I’m currently working on RPGDungeon (currently private)
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
