@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on RPGDungeon (currently private)
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Arduino**
 
 - 📫 How to reach me **contact@guzsoares.com.br**
 
