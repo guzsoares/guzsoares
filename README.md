@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Molina Soares</h1>
 <h3 align="center">Student at PUC-Rio, currently graduating in Computer Engineering</h3>
 
-- 🔭 I’m currently working on **Private Project**
+- 🔭 I’m currently working on **Routing Distribution Algorithm**
 
-- 🌱 I’m currently learning **Arduino**
+- 🌱 I’m currently learning **Project Management**
 
 - 📫 How to reach me **soaress.gustavo16@gmail.com**
 
