@@ -1,66 +1,57 @@
-<h1 align="center">Hi, I am Gustavo Soares</h1>
+# 👋 Hi there! I'm Guz Soares
 
-###
+Welcome to my GitHub profile! Here, you'll find a showcase of my latest projects, contributions, and ideas. I'm passionate about technology, innovation, and building solutions that make a difference.
 
-<h3 align="center">A software developer from Brazil 🇧🇷</h3>
+---
 
-###
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guzsoares.guzsoares&"  />
-</div>
+- [Lumen API](https://github.com/Xscan-Servicos-Tecnologicos/lumen-api) – Robust backend services for scalable applications.
+- [Sistema Novo](https://github.com/Xscan-Servicos-Tecnologicos/sistema-novo) – Modern system architecture for enhanced productivity.
+- [SQLServer](https://github.com/Xscan-Servicos-Tecnologicos/SQLServer) – Advanced SQL Server management and automation.
+- [Odometer Server](https://github.com/Xscan-Servicos-Tecnologicos/odometer-server) – Real-time vehicle data processing.
+- [Frota TMS](https://github.com/Xscan-Servicos-Tecnologicos/frota-tms) – Fleet management and logistics optimization.
 
-###
+---
 
-<h4 align="center">Interests</h4>
+## 🛠️ Technologies & Tools
 
-###
+I work with a wide range of languages, frameworks, and platforms. Some of my favorites include:
 
-<p align="center">💡 Exploring new technologies & building apps that solve real-world problems<br><br>🛡️ Cybersecurity & penetration testing, mainly web security.<br><br>🧠 Studying Artificial Intelligence</p>
+- **Backend:** PHP (Lumen, Laravel), Node.js
+- **Databases:** SQL Server, MySQL
+- **Cloud & DevOps:** Docker, AWS, CI/CD
+- **Frontend:** React, JavaScript
+- **Other:** API development, system integration, automation
 
-###
+---
 
-<h4 align="center">Tools & Technologies</h4>
+## 📈 GitHub Stats
 
-###
+![Guz Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzsoares&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🤝 Let's Connect
 
-<h4 align="center">If you want to contact me, use the links below.</h4>
+I love collaborating and sharing knowledge. Feel free to check out my projects, open issues, or reach out!
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-soares-ba342331b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="soaress.gustavo16@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## 🌱 Currently Learning & Exploring
 
-###
+I'm always expanding my skill set and staying up-to-date with the latest trends in tech.
+
+---
+
+## 📬 Contact
+
+<!-- Add your preferred contact methods here! -->
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_
+
+---
+
+Thanks for visiting my profile! 🚀
